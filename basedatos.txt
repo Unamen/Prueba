@@ -1,0 +1,7 @@
+create database hola;
+use hola;
+
+create table prueba(
+id int primary key,
+nombre varchar(20)
+);
